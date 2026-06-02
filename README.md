@@ -2,8 +2,9 @@
 
 ## 👨‍💻 Desenvolvedores
 
-* Caio Gabriel Paixão Lima
-* (adicione aqui os nomes do seu grupo)
+* Caio Lima
+* Alberto Neto
+* Gabriel monducci
 
 ---
 
