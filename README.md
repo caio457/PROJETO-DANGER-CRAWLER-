@@ -178,5 +178,3 @@ Este projeto foi desenvolvido com o objetivo de aplicar conceitos de:
 * Organização de código
 
 ---
-
-💡 *Dica: Este README pode ser melhorado com prints do jogo para ficar ainda mais profissional!*
