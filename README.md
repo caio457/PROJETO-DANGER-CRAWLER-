@@ -2,9 +2,9 @@
 
 ## 👨‍💻 Desenvolvedores
 
-* Caio Lima
-* Alberto Neto
-* Gabriel Monducci
+* Caio Gabriel Paixão Lima
+* Alberto José Cardoso Neto
+* Gabriel Wilian Pantoja Monducci
 
 ---
 
