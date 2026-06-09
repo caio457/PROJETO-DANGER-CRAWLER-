@@ -4,7 +4,7 @@
 
 * Caio Lima
 * Alberto Neto
-* Gabriel monducci
+* Gabriel Monducci
 
 ---
 
